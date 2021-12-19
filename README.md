@@ -1,1 +1,1 @@
-# aicocr_min
+# aicocr
